@@ -1,0 +1,4 @@
+boto3==1.43.81
+boto3-stubs==1.43.81
+botocore[crt]
+pytest==9.1.1
