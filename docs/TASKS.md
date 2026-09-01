@@ -171,7 +171,7 @@ Initial flow:
 
 ---
 
-# Phase 6 — Use the Read-Only Role
+# Phase 6 - Use the Read-Only Role
 
 - [x] Make boto3 assume `AWSInventoryReadOnly`.
 - [x] Obtain temporary credentials from STS.
@@ -372,17 +372,15 @@ implemented.
 
 # Phase 13 - GitHub Portfolio
 
-- [ ] Initialize Git repository.
+- [x] Initialize Git repository.
 - [x] Create `.gitignore`.
-- [ ] Verify no credentials are tracked.
-- [ ] Make initial commit.
-- [ ] Create GitHub repository.
-- [ ] Push project.
-- [ ] Add useful commit history.
+- [x] Verify no credentials are tracked.
+- [x] Make initial commit.
+- [x] Create GitHub repository.
+- [x] Push project.
 - [x] Add architecture documentation.
 - [x] Add example output.
 - [x] Add security considerations.
-- [ ] Add AWS/SAA-C03 learning notes.
 - [x] Add future improvements.
 
 ---
