@@ -1,4 +1,4 @@
-[# AWS Account Inventory
+# AWS Account Inventory
 
 A small Python application that inventories AWS account resources using
 `boto3` and a dedicated read-only IAM role.
